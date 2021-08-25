@@ -33,10 +33,10 @@ const app = {
             image: 'https://data.chiasenhac.com/data/cover/124/123766.jpg',
         },
         {
-            name: 'Có chắc yêu là đây',
-            singer: 'Sơn Tùng MTP',
-            path: 'https://mp3.phantam.top/download/9917',
-            image: 'https://data.chiasenhac.com/data/cover/124/123405.jpg',
+            name: 'Có em đời bỗng vui',
+            singer: 'Chillies',
+            path: 'https://tainhac365.org/download-music/341585',
+            image: 'https://avatar-nct.nixcdn.com/song/share/2020/02/07/3/8/e/d/1581043806043.jpg',
         },
         {
             name: 'Thinking Out Loud',
