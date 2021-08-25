@@ -87,6 +87,18 @@ const app = {
             path: 'https://tainhacmienphi.biz/download-music/91782',
             image: 'https://avatar-nct.nixcdn.com/song/share/2019/07/02/2/1/d/0/1562050952834.jpg',
         },
+        {
+            name: 'Tay To',
+            singer: 'MCK',
+            path: 'https://tainhac365.org/download-music/456397',
+            image: 'https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/e/0/2/c/e02cd4e0a723ed9b3510a95b5f6dbdd7.jpg',
+        },
+        {
+            name: 'Yêu Như Ngày Hôm Qua',
+            singer: 'THE SHEEP',
+            path: 'https://tainhac365.org/download-music/18964',
+            image: 'https://avatar-nct.nixcdn.com/song/2017/09/25/0/5/c/7/1506314223434_640.jpg',
+        },
     ],
     currentIndex: 0,
     isPlaying: false,
