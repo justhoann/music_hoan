@@ -27,7 +27,7 @@ const randomBtn = $('.btn-random')
 
 const app = {
     songs: [{
-            name: 'I'm Always By Your Side',
+            name: 'Im Always By Your Side',
             singer: 'Vincenzo OST',
             path: 'https://tainhac123.com/download/im-always-by-your-side-vincenzo-ost-john-park.vET8HWDOeyC6.html',
             image: 'https://pbs.twimg.com/media/Euo61NTXMAIZGyI.jpg',
