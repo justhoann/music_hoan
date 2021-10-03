@@ -27,10 +27,10 @@ const randomBtn = $('.btn-random')
 
 const app = {
     songs: [{
-            name: 'Cứ chill thôi',
-            singer: 'Chillies',
-            path: 'https://data3.chiasenhac.com/downloads/2102/3/2101455-ee613ff9/m4a/Cu%20Chill%20Thoi%20-%20Chillies_%20Suni%20Ha%20Linh_.m4a',
-            image: 'https://data.chiasenhac.com/data/cover/124/123766.jpg',
+            name: 'I'm Always By Your Side',
+            singer: 'Vincenzo OST',
+            path: 'https://tainhac123.com/download/im-always-by-your-side-vincenzo-ost-john-park.vET8HWDOeyC6.html',
+            image: 'https://pbs.twimg.com/media/Euo61NTXMAIZGyI.jpg',
         },
         {
             name: 'Có em đời bỗng vui',
